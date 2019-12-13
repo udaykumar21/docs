@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "lint-md": "cd ./learn && remark ."
+  },
+  "remarkConfig": {
+    "plugins": [
+      "lint",
+      "remark-custom-lint-no-html"
+    ]
+  },
+  "devDependencies": {
+    "lint": "^0.7.0",
+    "remark-cli": "^7.0.1",
+    "remark-custom-lint-no-html": "file:./remark-custom-lint-no-html"
+  }
+}
