@@ -19,7 +19,7 @@ WaveMaker is constantly working on bringing new features and improvements to the
 
 |Version Update|WMO details| WMO: Released on |WME details| WME: Released on |
 |---|---|---|---|---|
-|[WaveMaker v10.3.1](/learn/wavemaker-release-notes/v10-3-1)|Improvement + Bug fixes | 12 February 2020 |-|-|
+|[WaveMaker v10.3.1](/learn/wavemaker-release-notes/v10-3-1)|New feature + Bug fixes | 12 February 2020 |-|-|
 |[WaveMaker v10.3.0](/learn/wavemaker-release-notes/v10-3-0)|New features + bug fixes | 31 January 2020 | -|-|
 |WaveMaker v10.2.8|Bug fixes | 08 January 2020 | -|-|
 |[WaveMaker v10.2.7](/learn/wavemaker-release-notes/v10-2-7)|Bug fixes | 31 December 2019 | -|-|
